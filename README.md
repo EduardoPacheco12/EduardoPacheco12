@@ -1,6 +1,6 @@
 # Hello, World 🌎
 
-Hi, my name is Eduardo and this is my github! I'm 20 years old and i'm on my way to becoming a Full Stack dev. Currently learning more about JavaScript, HTML & CSS and 
+Hi, my name is Eduardo and this is my github! I'm 21 years old and i'm on my way to becoming a Full Stack dev. Currently learning more about JavaScript, HTML & CSS and 
 in the future i'm very motivated to learn more about Python 
 
 <div align="center">
