@@ -1,6 +1,6 @@
 # Hello, World 🌎
 
-Hi, my name is Eduardo and this is my github! I'm 21 years old and i'm a Junior Full Stack Dev. Currently learning more about FrontEnd(JavaScript,HTML,CSS,ReactJS), BackEnd(NodeJS,ExpressJS,TypeScript) and Databases(MongoDB, PostgreSQL). In the future i'm very motivated to learn more about PHP, Nest.JS, Tailwind and others technologies.
+Hi, my name is Eduardo and this is my github! I'm 21 years old and i'm a Junior Full Stack Dev. Currently learning more about FrontEnd(JavaScript, HTML, CSS, ReactJS), BackEnd(NodeJS, ExpressJS, TypeScript) and Databases(MongoDB, PostgreSQL). In the future i'm very motivated to learn more about PHP, Nest.JS, Tailwind and others technologies.
 
 <div align="center">
   <a href="https://github.com/EduardoPacheco12">
