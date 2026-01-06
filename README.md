@@ -3,7 +3,7 @@
 ### About me:
 
 - Hi, my name is Eduardo and this is my github! 
-- I'm 22 years old and i'm a Full Stack Dev. 
+- I'm 24 years old and i'm a Full Stack Dev. 
 - My passions are games, music and sports. 
 - Currently learning more about FrontEnd, BackEnd and Databases. In the future i'm very motivated to learn more about others languages and frameworks
 
